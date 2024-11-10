@@ -1,0 +1,10 @@
+frontend/node_modules/
+backend/target/
+# Compiled files
+node_modules/
+dist/
+.tmp
+logs/
+data
+test-results.xml
+
